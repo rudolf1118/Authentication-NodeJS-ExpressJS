@@ -80,6 +80,7 @@ Content-Type: application/json
 {
     "username": "exampleUser",
     "password": "password123"
+    "role":"USER" // "ADMIN" (role = "USER" by default)
 }
 ```
 
