@@ -24,7 +24,7 @@ This project is an authentication and authorization API built with Node.js, Expr
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/auth-project.git
+    git clone https://github.com/your-username/Authentication-NodeJS-ExpressJS.git
     cd auth-project
     ```
 
